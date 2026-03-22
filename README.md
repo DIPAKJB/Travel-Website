@@ -55,7 +55,9 @@ cd Travel-Website
 ### 3. Install dependencies
 
 ```
-npm install
+npm install -g vite
+npm install --save-dev vite
+
 ```
 
 ### 4. Run the project
@@ -74,13 +76,20 @@ https://6795c0c4bedc5d43a6c36343.mockapi.io/Travel/Travel
 
 ## 📸 Screenshots
 
-*Add screenshots of your project here (Home Page, Booking Page, etc.)*
+### 🏠 Home Page
+![Home Page](docs/screenshots/home.png)
+
+### 🧳 Booking Page
+![Booking](docs/screenshots/booking.png)
+
+### 🌍 Explore Page
+![Explore](docs/screenshots/explore.png)
 
 ---
 
 ## 📄 Project Report
 
-Internship report is available in the **docs** folder.
+[Download Internship Report](docs/Internship_Report.pdf)
 
 ---
 
