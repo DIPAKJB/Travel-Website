@@ -79,17 +79,20 @@ https://6795c0c4bedc5d43a6c36343.mockapi.io/Travel/Travel
 ### 🏠 Home Page
 ![Home Page](docs/screenshots/home.png)
 
+### 🌍 Destination Page
+![Explore](docs/screenshots/destination.png)
+
 ### 🧳 Booking Page
 ![Booking](docs/screenshots/booking.png)
 
-### 🌍 Explore Page
-![Explore](docs/screenshots/explore.png)
+### 📞 Contact Page
+![Booking](docs/screenshots/contact.png)
 
 ---
 
 ## 📄 Project Report
 
-[Download Internship Report](docs/Internship_Report.pdf)
+[Download Internship Report](docs/Travel-Website.docx)
 
 ---
 
